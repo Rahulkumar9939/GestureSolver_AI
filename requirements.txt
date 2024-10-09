@@ -1,7 +1,7 @@
-opencv-python==4.8.1.78
-mediapipe==0.10.9
-screeninfo==0.8.1
-google-generativeai==0.5.4
-streamlit==1.29.0
-numpy==1.26.3
-python-dotenv==1.0.1
+opencv-python
+mediapipe
+screeninfo
+google-generativeai
+streamlit
+numpy
+python-dotenv
